@@ -175,6 +175,7 @@ main
 }    
 footer
 {
-    display: flex;
+    background-color: blue;
+    
     
 }
